@@ -1,4 +1,4 @@
-# Hi i'm mohammadreza👋
+# Hi i'm mohammadreza!
 
 i am learning python, focused on writing clean and understandable code.
 i enjoy solving problem and gradully building small, practical projects.
